@@ -1,0 +1,11 @@
+StartChar: caron
+Encoding: 711 711 179
+Width: 500
+Flags: W
+HStem: 600 100<200 300> 700 100<100 200 300 400>
+VStem: 100 100<700 800> 200 100<600 700> 300 100<700 800>
+LayerCount: 3
+Fore
+Refer: 140 780 N 1 0 0 1 500 0 2
+Validated: 5
+EndChar

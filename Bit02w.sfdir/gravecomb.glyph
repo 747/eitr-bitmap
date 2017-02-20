@@ -1,0 +1,24 @@
+StartChar: gravecomb
+Encoding: 768 768 128
+Width: 0
+Flags: W
+HStem: 600 100<-300 -200> 700 100<-400 -300>
+VStem: -400 100<700 800> -300 100<600 700>
+AnchorPoint: "stack" -250 600 mark 0
+AnchorPoint: "top" -250 600 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-300 800 m 25x60
+ -300 700 l 25xa0
+ -400 700 l 25
+ -400 800 l 25
+ -300 800 l 25x60
+-200 700 m 25x90
+ -200 600 l 25
+ -300 600 l 25x90
+ -300 700 l 25xa0
+ -200 700 l 25x90
+EndSplineSet
+Validated: 5
+EndChar

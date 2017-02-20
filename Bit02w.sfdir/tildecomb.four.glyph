@@ -1,0 +1,35 @@
+StartChar: tildecomb.four
+Encoding: 65537 -1 249
+Width: 0
+Flags: W
+HStem: 600 100<-500 -400 -300 -200> 700 100<-400 -300 -200 -100>
+VStem: -500 100<600 700> -400 100<700 800> -300 100<600 700> -200 100<700 800>
+AnchorPoint: "stack" -250 900 basemark 0
+AnchorPoint: "stack-even" -350 900 basemark 0
+AnchorPoint: "top-even" -350 600 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-200 700 m 29x88
+ -200 800 l 29
+ -100 800 l 29
+ -100 700 l 29x44
+ -200 700 l 29x88
+-300 600 m 13x88
+ -300 700 l 29x90
+ -200 700 l 29
+ -200 600 l 21
+ -300 600 l 13x88
+-400 700 m 5xa0
+ -400 800 l 5
+ -300 800 l 5x50
+ -300 700 l 5x90
+ -400 700 l 5xa0
+-500 600 m 29xa0
+ -500 700 l 29
+ -400 700 l 29
+ -400 600 l 29
+ -500 600 l 29xa0
+EndSplineSet
+Validated: 5
+EndChar

@@ -1,0 +1,10 @@
+StartChar: uni01E2
+Encoding: 482 482 567
+Width: 1000
+HStem: 480 20G<300 400> 800 100<200 700>
+LayerCount: 3
+Fore
+Refer: 162 198 N 1 0 0 1 0 0 3
+Refer: 251 -1 N 1 0 0 1 800 100 2
+Validated: 5
+EndChar

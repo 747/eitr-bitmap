@@ -1,0 +1,23 @@
+StartChar: uni0316
+Encoding: 790 790 146
+Width: 0
+Flags: W
+HStem: -200 100<-200 -100> -100 100<-300 -200>
+VStem: -300 100<-100 0> -200 100<-200 -100>
+AnchorPoint: "bottom" -250 0 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-200 0 m 25x60
+ -200 -100 l 25xa0
+ -300 -100 l 25
+ -300 0 l 25
+ -200 0 l 25x60
+-100 -100 m 25x90
+ -100 -200 l 25
+ -200 -200 l 25x90
+ -200 -100 l 25xa0
+ -100 -100 l 25x90
+EndSplineSet
+Validated: 5
+EndChar

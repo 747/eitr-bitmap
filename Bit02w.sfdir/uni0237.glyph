@@ -1,0 +1,26 @@
+StartChar: uni0237
+Encoding: 567 567 229
+Width: 300
+VWidth: 1600
+Flags: W
+HStem: -200 100<0 100> 480 20G<100 200>
+VStem: 0 100<-200 -100> 100 100<-100 500>
+AnchorPoint: "bottom" 50 -300 basechar 0
+AnchorPoint: "bottom-adjoined" 50 -200 basechar 0
+AnchorPoint: "ogonek" 50 -100 basechar 0
+AnchorPoint: "top" 150 600 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+0 -200 m 1xe0
+ 0 -100 l 1
+ 100 -100 l 1xe0
+ 100 500 l 1
+ 200 500 l 1
+ 200 -100 l 1xd0
+ 100 -100 l 1
+ 100 -200 l 1
+ 0 -200 l 1xe0
+EndSplineSet
+Validated: 5
+EndChar

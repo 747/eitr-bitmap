@@ -1,0 +1,29 @@
+StartChar: uni030C
+Encoding: 780 780 140
+Width: 0
+Flags: W
+HStem: 600 100<-300 -200> 700 100<-400 -300 -200 -100>
+VStem: -400 100<700 800> -300 100<600 700> -200 100<700 800>
+AnchorPoint: "stack" -250 600 mark 0
+AnchorPoint: "top" -250 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-300 800 m 25x60
+ -300 700 l 25xa0
+ -400 700 l 25
+ -400 800 l 25
+ -300 800 l 25x60
+-200 700 m 25x90
+ -200 600 l 25
+ -300 600 l 25x90
+ -300 700 l 25xa0
+ -200 700 l 25x90
+-100 800 m 25x48
+ -100 700 l 25x48
+ -200 700 l 25x90
+ -200 800 l 25
+ -100 800 l 25x48
+EndSplineSet
+Validated: 5
+EndChar

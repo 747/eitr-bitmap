@@ -1,0 +1,13 @@
+StartChar: amacron
+Encoding: 257 257 324
+Width: 500
+Flags: W
+HStem: 200 100<100 300> 400 100<100 300> 600 100<0 400>
+VStem: 0 100<0 200> 300 100<0 200 300 400>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+Refer: 58 97 N 1 0 0 1 0 0 3
+Refer: 132 772 N 1 0 0 1 500 -100 2
+Validated: 5
+EndChar

@@ -1,0 +1,11 @@
+StartChar: AEacute
+Encoding: 508 508 269
+Width: 1000
+HStem: 480 20G<300 400> 800 100<400 500> 900 100<500 600>
+VStem: 400 100<800 900> 500 100<900 1000>
+LayerCount: 3
+Fore
+Refer: 162 198 N 1 0 0 1 0 0 3
+Refer: 129 769 N 1 0 0 1 700 200 2
+Validated: 5
+EndChar

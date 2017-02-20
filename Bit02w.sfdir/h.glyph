@@ -1,0 +1,31 @@
+StartChar: h
+Encoding: 104 104 65
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: 400 100<200 400> 680 20G<100 200>
+VStem: 100 100<0 400 500 700> 400 100<0 400>
+AnchorPoint: "ogonek" 250 0 basechar 0
+AnchorPoint: "bottom-adjoined" 350 0 basechar 0
+AnchorPoint: "bottom" 350 -100 basechar 0
+AnchorPoint: "top" 150 800 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+100 0 m 1
+ 100 700 l 1
+ 200 700 l 1
+ 200 500 l 1
+ 400 500 l 1
+ 400 400 l 1
+ 200 400 l 1
+ 200 0 l 1
+ 100 0 l 1
+400 400 m 1
+ 500 400 l 1
+ 500 0 l 1
+ 400 0 l 1
+ 400 400 l 1
+EndSplineSet
+Validated: 5
+EndChar

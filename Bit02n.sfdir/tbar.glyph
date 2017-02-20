@@ -1,0 +1,20 @@
+StartChar: tbar
+Encoding: 359 359 240
+Width: 500
+VWidth: 1600
+Flags: W
+HStem: 0 100<200 400> 200 100<0 300> 400 100<200 400>
+VStem: 100 100<100 400 500 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+0 200 m 25
+ 0 300 l 25
+ 300 300 l 25
+ 300 200 l 25
+ 0 200 l 25
+EndSplineSet
+Refer: 77 116 N 1 0 0 1 100 0 2
+Validated: 5
+EndChar

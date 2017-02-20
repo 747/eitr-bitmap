@@ -1,0 +1,29 @@
+StartChar: braceright
+Encoding: 125 125 88
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 700 m 1
+ 0 700 l 1
+ 0 600 l 1
+ 100 600 l 1
+ 100 400 l 1
+ 200 400 l 1
+ 200 500 200 600 200 700 c 1
+400 300 m 1
+ 400 400 l 1
+ 200 400 l 1
+ 200 300 l 1
+ 400 300 l 1
+200 300 m 1
+ 100 300 l 1
+ 100 0 l 1
+ 0 0 l 1
+ 0 -100 l 1
+ 200 -100 l 1
+ 200 33 200 167 200 300 c 1
+EndSplineSet
+Validated: 5
+EndChar

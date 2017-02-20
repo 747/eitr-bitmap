@@ -1,0 +1,20 @@
+StartChar: uni0328
+Encoding: 808 808 152
+Width: 0
+Flags: W
+HStem: -200 100<-300 -200>
+VStem: -400 100<-100 0>
+AnchorPoint: "ogonek" -350 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-400 -200 m 1
+ -400 -133 -400 -67 -400 0 c 1
+ -300 0 l 1
+ -300 -100 l 1
+ -200 -100 l 1
+ -200 -200 l 1
+ -400 -200 l 1
+EndSplineSet
+Validated: 1
+EndChar

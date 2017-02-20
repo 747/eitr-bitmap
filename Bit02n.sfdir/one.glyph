@@ -1,0 +1,26 @@
+StartChar: one
+Encoding: 49 49 3
+Width: 400
+Flags: W
+HStem: 400 100<0 100> 680 20G<200 300>
+VStem: 0 100<400 500> 200 100<0 500 600 700>
+LayerCount: 2
+Fore
+SplineSet
+0 400 m 25
+ 0 500 l 25
+ 100 500 l 25
+ 100 400 l 25
+ 0 400 l 25
+200 700 m 1
+ 300 700 l 1
+ 300 0 l 1
+ 200 0 l 1
+ 200 500 l 1
+ 100 500 l 1
+ 100 600 l 1
+ 200 600 l 1
+ 200 700 l 1
+EndSplineSet
+Validated: 5
+EndChar

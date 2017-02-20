@@ -1,0 +1,12 @@
+StartChar: uring
+Encoding: 367 367 411
+Width: 500
+Flags: W
+HStem: 0 100<100 300> 480 20G<0 100 300 400> 600 100<200 300> 800 100<200 300>
+VStem: 0 100<100 500> 100 100<700 800> 300 100<100 500 700 800>
+LayerCount: 2
+Fore
+Refer: 78 117 N 1 0 0 1 0 0 3
+Refer: 138 778 N 1 0 0 1 500 0 2
+Validated: 5
+EndChar

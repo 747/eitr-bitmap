@@ -1,0 +1,10 @@
+StartChar: uni2010
+Encoding: 8208 8208 736
+Width: 400
+Flags: W
+HStem: 200 100<0 300>
+VStem: 0 300<200 300>
+LayerCount: 2
+Fore
+Refer: 13 45 N 1 0 0 1 0 0 3
+EndChar

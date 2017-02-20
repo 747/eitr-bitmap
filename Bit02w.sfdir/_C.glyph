@@ -1,0 +1,43 @@
+StartChar: C
+Encoding: 67 67 31
+Width: 700
+VWidth: 1600
+Flags: W
+HStem: -100 100<300 600> 0 100<200 300> 480 20G<100 200> 500 100<200 300> 600 100<300 600>
+VStem: 100 100<100 500> 200 100<0 100 500 600> 300 300<-100 0 600 700>
+AnchorPoint: "ogonek" 450 -100 basechar 0
+AnchorPoint: "top-even" 350 800 basechar 0
+AnchorPoint: "bottom-adjoined" 450 -100 basechar 0
+AnchorPoint: "bottom" 450 -200 basechar 0
+AnchorPoint: "top" 450 800 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+300 700 m 5x09
+ 600 700 l 1
+ 600 600 l 1x09
+ 300 600 l 5x12
+ 300 700 l 5x09
+300 600 m 5x12
+ 300 500 l 5x12
+ 200 500 l 5x24
+ 200 600 l 5
+ 300 600 l 5x12
+200 500 m 5x64
+ 200 100 l 5
+ 100 100 l 5
+ 100 500 l 5
+ 200 500 l 5x64
+200 100 m 5
+ 300 100 l 5x42
+ 300 0 l 5x82
+ 200 0 l 5x42
+ 200 100 l 5
+300 0 m 5x82
+ 600 0 l 1
+ 600 -100 l 1
+ 300 -100 l 5x81
+ 300 0 l 5x82
+EndSplineSet
+Validated: 5
+EndChar

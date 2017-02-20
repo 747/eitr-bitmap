@@ -1,0 +1,11 @@
+StartChar: tilde
+Encoding: 732 732 192
+Width: 600
+Flags: W
+HStem: 600 100<0 100 300 400> 700 100<100 300 400 500>
+VStem: 0 100<600 700> 300 100<600 700> 400 100<700 800>
+LayerCount: 3
+Fore
+Refer: 131 771 N 1 0 0 1 600 0 2
+Validated: 5
+EndChar

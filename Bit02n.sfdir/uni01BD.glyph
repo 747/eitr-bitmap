@@ -1,0 +1,31 @@
+StartChar: uni01BD
+Encoding: 445 445 709
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+0 100 m 1
+ 0 0 l 1
+ 300 0 l 1
+ 300 100 l 1
+ 400 100 l 1
+ 400 200 l 1
+ 300 200 l 1
+ 300 300 l 1
+ 200 300 l 1
+ 200 400 l 1
+ 400 400 l 1
+ 400 500 l 1
+ 0 500 l 1
+ 0 400 l 1
+ 100 400 l 1
+ 100 300 l 1
+ 200 300 l 1
+ 200 200 l 1
+ 300 200 l 1
+ 300 100 l 1
+ 0 100 l 1
+EndSplineSet
+Validated: 5
+EndChar

@@ -1,0 +1,11 @@
+StartChar: minute
+Encoding: 8242 8242 243
+Width: 500
+Flags: W
+HStem: 500 300<200 300>
+VStem: 200 100<500 800>
+LayerCount: 3
+Fore
+Refer: 19 39 N 1 0 0 1 100 0 2
+Validated: 1
+EndChar

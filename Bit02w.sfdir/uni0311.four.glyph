@@ -1,0 +1,24 @@
+StartChar: uni0311.four
+Encoding: 65550 -1 621
+Width: 700
+Flags: W
+HStem: 600 200
+AnchorPoint: "top-even" 350 600 mark 0
+LayerCount: 3
+Fore
+SplineSet
+200 700 m 5
+ 200 600 l 5
+ 300 600 l 5
+ 300 700 l 5
+ 200 700 l 5
+300 700 m 5
+ 500 700 l 5
+ 500 600 l 5
+ 600 600 l 5
+ 600 800 l 5
+ 300 800 l 5
+ 300 700 l 5
+EndSplineSet
+Validated: 5
+EndChar

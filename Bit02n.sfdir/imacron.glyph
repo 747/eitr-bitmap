@@ -1,0 +1,12 @@
+StartChar: imacron
+Encoding: 299 299 358
+Width: 300
+Flags: W
+HStem: 400 100<0 100> 600 100<0 300>
+VStem: 0 300<600 700> 100 100<0 400>
+LayerCount: 2
+Fore
+Refer: 195 305 N 1 0 0 1 0 0 3
+Refer: 250 -1 N 1 0 0 1 400 -100 2
+Validated: 1
+EndChar

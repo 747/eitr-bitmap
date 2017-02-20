@@ -1,0 +1,23 @@
+StartChar: uni030E
+Encoding: 782 782 142
+Width: 0
+Flags: W
+HStem: 600 200<-400 -300 -200 -100>
+VStem: -400 100<600 800> -200 100<600 800>
+AnchorPoint: "top" -250 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-400 600 m 1
+ -400 800 l 17
+ -367 800 -333 800 -300 800 c 9
+ -300 600 l 1
+ -400 600 l 1
+-200 600 m 1
+ -200 800 l 17
+ -167 800 -133 800 -100 800 c 9
+ -100 600 l 1
+ -200 600 l 1
+EndSplineSet
+Validated: 1
+EndChar

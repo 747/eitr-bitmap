@@ -1,0 +1,17 @@
+StartChar: uni0331.five
+Encoding: 65556 -1 636
+Width: 0
+Flags: W
+HStem: -200 100<-600 -100>
+AnchorPoint: "bottom" -350 -100 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-600 -200 m 25
+ -600 -100 l 25
+ -100 -100 l 1
+ -100 -200 l 1
+ -600 -200 l 25
+EndSplineSet
+Validated: 1
+EndChar

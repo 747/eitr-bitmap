@@ -1,0 +1,12 @@
+StartChar: Edotaccent
+Encoding: 278 278 341
+Width: 600
+Flags: W
+HStem: -100 100<200 500> 300 100<200 500> 600 100<200 500> 900 100<300 400>
+VStem: 100 100<0 300 400 600> 100 400<-100 0 300 400 600 700> 300 100<900 1000>
+LayerCount: 2
+Fore
+Refer: 33 69 N 1 0 0 1 0 0 3
+Refer: 137 775 N 1 0 0 1 600 200 2
+Validated: 1
+EndChar

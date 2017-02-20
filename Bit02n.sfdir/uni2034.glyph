@@ -1,0 +1,28 @@
+StartChar: uni2034
+Encoding: 8244 8244 245
+Width: 800
+Flags: W
+HStem: 500 300<100 200 300 400 500 600>
+VStem: 100 100<500 800> 300 100<500 800> 500 100<500 800>
+CounterMasks: 1 70
+LayerCount: 2
+Fore
+SplineSet
+500 500 m 1
+ 500 800 l 1
+ 600 800 l 1
+ 600 500 l 1
+ 500 500 l 1
+100 500 m 1
+ 100 800 l 1
+ 200 800 l 1
+ 200 500 l 1
+ 100 500 l 1
+300 500 m 1
+ 300 800 l 1
+ 400 800 l 1
+ 400 500 l 1
+ 300 500 l 1
+EndSplineSet
+Validated: 1
+EndChar

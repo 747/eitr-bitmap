@@ -1,0 +1,11 @@
+StartChar: uniA789
+Encoding: 42889 42889 772
+Width: 200
+Flags: W
+HStem: 480 20G<0 100>
+VStem: 0 100<0 200 300 500>
+LayerCount: 2
+Fore
+Refer: 22 58 N 1 0 0 1 -100 0 2
+Validated: 1
+EndChar

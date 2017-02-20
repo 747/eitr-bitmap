@@ -1,0 +1,12 @@
+StartChar: gbreve
+Encoding: 287 287 348
+Width: 500
+Flags: W
+HStem: -200 100<100 300> 600 100<100 300> 700 100<0 100>
+VStem: 0 100<700 800> 300 100<700 800>
+LayerCount: 2
+Fore
+Refer: 619 -1 N 1 0 0 1 600 0 2
+Refer: 64 103 N 1 0 0 1 0 0 3
+Validated: 5
+EndChar

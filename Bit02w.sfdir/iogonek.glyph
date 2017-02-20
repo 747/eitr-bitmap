@@ -1,0 +1,12 @@
+StartChar: iogonek
+Encoding: 303 303 362
+Width: 400
+Flags: W
+HStem: -200 100<200 300> 400 100<100 200> 600 100<200 300>
+VStem: 100 100<-100 0> 200 100<0 400 600 700>
+LayerCount: 3
+Fore
+Refer: 66 105 N 1 0 0 1 0 0 3
+Refer: 152 808 N 1 0 0 1 500 0 2
+Validated: 5
+EndChar

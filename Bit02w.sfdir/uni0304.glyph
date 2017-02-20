@@ -1,0 +1,20 @@
+StartChar: uni0304
+Encoding: 772 772 132
+Width: 0
+Flags: W
+HStem: 700 100<-500 -100>
+AnchorPoint: "stack-even" -350 900 basemark 0
+AnchorPoint: "stack" -250 900 basemark 0
+AnchorPoint: "stack-even" -350 700 mark 0
+AnchorPoint: "top-even" -350 700 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-500 700 m 25
+ -500 800 l 25
+ -100 800 l 25
+ -100 700 l 25
+ -500 700 l 25
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,22 @@
+StartChar: uniA78A
+Encoding: 42890 42890 773
+Width: 400
+Flags: W
+HStem: 200 100<0 300> 400 100<0 300>
+VStem: 0 300<200 300 400 500>
+LayerCount: 2
+Fore
+SplineSet
+0 200 m 1
+ 0 300 l 1
+ 300 300 l 1
+ 300 200 l 1
+ 0 200 l 1
+0 400 m 1
+ 0 500 l 1
+ 300 500 l 1
+ 300 400 l 1
+ 0 400 l 1
+EndSplineSet
+Validated: 1
+EndChar

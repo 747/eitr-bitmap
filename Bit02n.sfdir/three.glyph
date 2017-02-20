@@ -1,0 +1,36 @@
+StartChar: three
+Encoding: 51 51 5
+Width: 500
+Flags: W
+HStem: 0 100<0 300> 300 100<100 300> 600 100<0 300>
+VStem: 0 300<0 100 600 700> 300 100<100 300 400 600>
+CounterMasks: 1 e0
+LayerCount: 2
+Fore
+SplineSet
+0 600 m 1xf0
+ 0 700 l 1
+ 300 700 l 1
+ 300 600 l 1
+ 0 600 l 1xf0
+100 300 m 1
+ 100 400 l 1
+ 300 400 l 1xe8
+ 300 600 l 1xf0
+ 400 600 l 1
+ 400 400 l 1
+ 300 400 l 1
+ 300 300 l 1xe8
+ 100 300 l 1
+0 0 m 1xf0
+ 0 100 l 1
+ 300 100 l 1xf0
+ 300 300 l 1
+ 400 300 l 1
+ 400 100 l 1xe8
+ 300 100 l 1
+ 300 0 l 1
+ 0 0 l 1xf0
+EndSplineSet
+Validated: 5
+EndChar

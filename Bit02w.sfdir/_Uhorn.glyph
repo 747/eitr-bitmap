@@ -1,0 +1,50 @@
+StartChar: Uhorn
+Encoding: 431 431 260
+Width: 1000
+VWidth: 1600
+Flags: W
+HStem: -100 100<300 600> 0 100<200 300 600 700> 400 100<800 900> 680 20G<100 200 700 800 900 1000>
+VStem: 100 100<100 700> 200 100<0 100> 600 100<0 100> 700 100<100 400 500 700> 900 100<500 700>
+AnchorPoint: "bottom" 450 -200 basechar 0
+AnchorPoint: "ogonek" 450 -100 basechar 0
+AnchorPoint: "bottom-adjoined" 450 -100 basechar 0
+AnchorPoint: "top" 450 800 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+600 0 m 1xb680
+ 600 -100 l 1
+ 300 -100 l 1
+ 300 0 l 1
+ 600 0 l 1xb680
+600 0 m 1
+ 600 100 l 1
+ 700 100 l 1
+ 700 0 l 1x7280
+ 600 0 l 1
+700 100 m 1
+ 700 700 l 1
+ 800 700 l 1
+ 800 500 l 1
+ 900 500 l 1
+ 900 700 l 1
+ 1000 700 l 1
+ 1000 500 l 1
+ 900 500 l 1
+ 900 400 l 1
+ 800 400 l 1
+ 800 100 l 1x7180
+ 700 100 l 1
+300 0 m 1xb480
+ 200 0 l 1x7480
+ 200 100 l 1x7880
+ 300 100 l 1x7480
+ 300 0 l 1xb480
+200 100 m 1x7880
+ 100 100 l 1
+ 100 700 l 1
+ 200 700 l 1
+ 200 100 l 1x7880
+EndSplineSet
+Validated: 5
+EndChar

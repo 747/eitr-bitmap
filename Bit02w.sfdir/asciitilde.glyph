@@ -1,0 +1,32 @@
+StartChar: asciitilde
+Encoding: 126 126 90
+Width: 800
+Flags: W
+HStem: 300 100<100 200 400 600> 400 100<200 400 600 700>
+VStem: 100 100<300 400> 600 100<400 500>
+LayerCount: 3
+Fore
+SplineSet
+100 300 m 1xb0
+ 100 400 l 1
+ 200 400 l 1
+ 200 300 l 1
+ 100 300 l 1xb0
+200 400 m 1
+ 200 500 l 1
+ 400 500 l 1x70
+ 400 400 l 1
+ 200 400 l 1
+400 400 m 1xb0
+ 600 400 l 1
+ 600 300 l 1
+ 400 300 l 1
+ 400 400 l 1xb0
+600 400 m 1
+ 600 500 l 1
+ 700 500 l 1
+ 700 400 l 1x70
+ 600 400 l 1
+EndSplineSet
+Validated: 5
+EndChar

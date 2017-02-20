@@ -1,0 +1,12 @@
+StartChar: uni0327
+Encoding: 807 807 136
+Width: 0
+Flags: W
+HStem: -200 100<-500 -300> -100 100<-300 -200>
+VStem: -300 100<-100 0>
+AnchorPoint: "bottom-adjoined" -350 -0 mark 0
+LayerCount: 2
+Fore
+Refer: 120 184 N 1 0 0 1 -600 0 2
+Validated: 5
+EndChar

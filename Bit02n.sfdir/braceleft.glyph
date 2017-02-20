@@ -1,0 +1,31 @@
+StartChar: braceleft
+Encoding: 123 123 87
+Width: 500
+Flags: W
+HStem: -100 100<300 400> 300 100<0 200> 600 100<300 400>
+VStem: 200 200<-100 0 600 700> 200 100<0 300 400 600>
+LayerCount: 2
+Fore
+SplineSet
+200 700 m 5xf0
+ 400 700 l 5
+ 400 600 l 5xf0
+ 300 600 l 5
+ 300 400 l 5
+ 200 400 l 5xe8
+ 200 500 200 600 200 700 c 5xf0
+0 300 m 5
+ 0 400 l 5
+ 200 400 l 5
+ 200 300 l 5xe8
+ 0 300 l 5
+200 300 m 5
+ 300 300 l 5
+ 300 0 l 5xe8
+ 400 0 l 5
+ 400 -100 l 5
+ 200 -100 l 5xf0
+ 200 33 200 167 200 300 c 5
+EndSplineSet
+Validated: 5
+EndChar

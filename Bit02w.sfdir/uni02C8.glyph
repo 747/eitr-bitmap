@@ -1,0 +1,11 @@
+StartChar: uni02C8
+Encoding: 712 712 180
+Width: 300
+Flags: W
+HStem: 600 200<100 200>
+VStem: 100 100<600 800>
+LayerCount: 3
+Fore
+Refer: 141 781 N 1 0 0 1 400 0 2
+Validated: 1
+EndChar

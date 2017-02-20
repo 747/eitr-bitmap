@@ -1,0 +1,27 @@
+StartChar: uni019C
+Encoding: 412 412 666
+Width: 900
+VWidth: 1600
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+400 0 m 1
+ 200 0 l 1
+ 200 -100 l 1
+ 800 -100 l 1
+ 800 700 l 1
+ 700 700 l 1
+ 700 0 l 1
+ 500 0 l 1
+ 500 700 l 1
+ 400 700 l 1
+ 400 0 l 1
+200 0 m 1
+ 200 700 l 1
+ 100 700 l 1
+ 100 0 l 1
+ 200 0 l 1
+EndSplineSet
+Validated: 5
+EndChar

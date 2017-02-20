@@ -1,0 +1,11 @@
+StartChar: uni01E3
+Encoding: 483 483 568
+Width: 1000
+Flags: HW
+HStem: -100 100<200 300> 0 100<600 800> 400 100<200 400 600 800> 600 100<300 700>
+VStem: 200 100<-100 0> 600 200<0 100 400 500>
+LayerCount: 3
+Fore
+Refer: 181 713 N 1 0 0 1 200 -100 2
+Refer: 163 230 N 1 0 0 1 0 0 3
+EndChar

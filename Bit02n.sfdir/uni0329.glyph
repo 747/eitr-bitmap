@@ -1,0 +1,18 @@
+StartChar: uni0329
+Encoding: 809 809 153
+Width: 0
+Flags: W
+HStem: -200 200<-300 -200>
+VStem: -300 100<-200 0>
+AnchorPoint: "bottom-adjoined" -250 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-300 -200 m 1
+ -300 0 l 17
+ -267 0 -233 0 -200 0 c 9
+ -200 -200 l 1
+ -300 -200 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,32 @@
+StartChar: Eng
+Encoding: 330 330 640
+Width: 700
+VWidth: 1600
+Flags: W
+HStem: -200 100<300 500>
+AnchorPoint: "bottom-adjoined" 350 -200 basechar 0
+AnchorPoint: "top" 350 800 basechar 0
+AnchorPoint: "bottom" 350 -200 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+500 600 m 1
+ 500 -100 l 1
+ 600 -100 l 1
+ 600 600 l 1
+ 500 600 l 1
+500 600 m 1
+ 500 700 l 1
+ 100 700 l 1
+ 100 0 l 1
+ 200 0 l 1
+ 200 600 l 1
+ 500 600 l 1
+300 -200 m 25
+ 300 -100 l 25
+ 500 -100 l 25
+ 500 -200 l 25
+ 300 -200 l 25
+EndSplineSet
+Validated: 5
+EndChar

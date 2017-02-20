@@ -1,0 +1,26 @@
+StartChar: semicolon
+Encoding: 59 59 23
+Width: 400
+Flags: W
+HStem: -100 100<0 100> 480 20G<100 200>
+VStem: 0 100<-100 0> 100 100<0 200 300 500>
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1xd0
+ 100 500 l 1
+ 200 500 l 1
+ 200 300 l 1
+ 100 300 l 1xd0
+0 -100 m 1xe0
+ 0 0 l 1
+ 100 0 l 1xe0
+ 100 200 l 1
+ 200 200 l 1
+ 200 0 l 1xd0
+ 100 0 l 1
+ 100 -100 l 1
+ 0 -100 l 1xe0
+EndSplineSet
+Validated: 5
+EndChar

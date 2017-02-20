@@ -1,0 +1,11 @@
+StartChar: uni0331
+Encoding: 817 817 154
+Width: 0
+Flags: W
+HStem: -200 100<-500 -100>
+AnchorPoint: "bottom" -250 -100 mark 0
+LayerCount: 2
+Fore
+Refer: 132 772 N 1 0 0 1 -0 -900 2
+Validated: 1
+EndChar

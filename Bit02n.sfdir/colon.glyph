@@ -1,0 +1,37 @@
+StartChar: colon
+Encoding: 58 58 22
+Width: 400
+InSpiro: 1
+Flags: W
+HStem: 480 20G<100 200>
+VStem: 100 100<0 200 300 500>
+LayerCount: 2
+Fore
+SplineSet
+100 300 m 1
+ 100 500 l 1
+ 200 500 l 1
+ 200 300 l 1
+ 100 300 l 1
+  Spiro
+    100 300 v
+    100 500 v
+    200 500 v
+    200 300 v
+    0 0 z
+  EndSpiro
+100 0 m 1
+ 100 200 l 1
+ 200 200 l 1
+ 200 0 l 1
+ 100 0 l 1
+  Spiro
+    100 0 v
+    100 200 v
+    200 200 v
+    200 0 v
+    0 0 z
+  EndSpiro
+EndSplineSet
+Validated: 1
+EndChar

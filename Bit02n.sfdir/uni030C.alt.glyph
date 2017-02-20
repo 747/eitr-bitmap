@@ -1,0 +1,18 @@
+StartChar: uni030C.alt
+Encoding: 65545 -1 257
+Width: 0
+Flags: W
+HStem: 600 200<-100 0>
+VStem: -100 100<600 800>
+AnchorPoint: "caron-alt" -50 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-100 600 m 1
+ -100 667 -100 733 -100 800 c 1
+ -0 800 l 1
+ 0 733 0 667 0 600 c 1
+ -100 600 l 1
+EndSplineSet
+Validated: 1
+EndChar

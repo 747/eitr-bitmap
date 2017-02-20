@@ -1,0 +1,24 @@
+StartChar: uni01AD
+Encoding: 429 429 705
+Width: 500
+VWidth: 1600
+Flags: W
+HStem: 0 100<200 400> 400 100<200 400> 500 21G<100 200> 680 20G<100 200> 700 100<200 300>
+VStem: 100 100<100 400 500 600 500 700> 200 100<700 800>
+LayerCount: 3
+Fore
+SplineSet
+100 500 m 25xa4
+ 100 700 l 1
+ 200 700 l 1
+ 200 500 l 25xd4
+ 100 500 l 25xa4
+200 700 m 25
+ 200 800 l 25
+ 300 800 l 25
+ 300 700 l 25x8a
+ 200 700 l 25
+EndSplineSet
+Refer: 77 116 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,12 @@
+StartChar: uni0324
+Encoding: 804 804 633
+Width: 0
+Flags: W
+HStem: -200 100<-400 -300 -200 -100>
+VStem: -400 100<-200 -100> -200 100<-200 -100>
+AnchorPoint: "bottom" -250 -100 mark 0
+LayerCount: 3
+Fore
+Refer: 104 168 N 1 0 0 1 -500 -800 2
+Validated: 1
+EndChar

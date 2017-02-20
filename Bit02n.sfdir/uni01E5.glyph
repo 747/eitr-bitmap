@@ -1,0 +1,18 @@
+StartChar: uni01E5
+Encoding: 485 485 711
+Width: 500
+VWidth: 1600
+Flags: W
+HStem: -200 100<100 300>
+LayerCount: 2
+Fore
+SplineSet
+100 -100 m 25
+ 500 -100 l 1
+ 500 0 l 1
+ 100 0 l 25
+ 100 -100 l 25
+EndSplineSet
+Refer: 64 103 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

@@ -1,0 +1,14 @@
+StartChar: Ecircumflex
+Encoding: 202 202 283
+Width: 600
+Flags: W
+HStem: -100 100<200 500> 300 100<200 500> 600 100<200 500> 800 100<100 200 400 500> 900 100<200 400>
+VStem: 100 100<0 300 400 600 800 900> 100 400<-100 0 300 400 600 700> 400 100<800 900>
+AnchorPoint: "bottom" 350 -200 basechar 0
+AnchorPoint: "bottom-adjoined" 350 -100 basechar 0
+LayerCount: 2
+Fore
+Refer: 33 69 N 1 0 0 1 0 0 3
+Refer: 248 -1 N 1 0 0 1 600 200 2
+Validated: 5
+EndChar

@@ -1,0 +1,12 @@
+StartChar: uni0417
+Encoding: 1047 1047 780
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: 300 100<100 400> 600 100<100 400>
+VStem: 100 300<300 400 600 700> 400 100<0 300 400 600>
+LayerCount: 2
+Fore
+Refer: 664 400 N -1 0 0 1 600 0 3
+Validated: 21
+EndChar

@@ -1,0 +1,11 @@
+StartChar: uni01C3
+Encoding: 451 451 662
+Width: 200
+Flags: W
+HStem: 0 100<0 100> 680 20G<0 100>
+VStem: 0 100<0 100 200 700>
+LayerCount: 2
+Fore
+Refer: 20 33 N 1 0 0 1 -100 0 2
+Validated: 1
+EndChar

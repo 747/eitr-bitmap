@@ -1,0 +1,21 @@
+StartChar: exclamdown
+Encoding: 161 161 96
+Width: 500
+Flags: W
+VStem: 200 100
+LayerCount: 3
+Fore
+SplineSet
+200 500 m 1
+ 200 400 l 1
+ 300 400 l 1
+ 300 500 l 1
+ 200 500 l 1
+200 300 m 1
+ 200 -200 l 1
+ 300 -200 l 1
+ 300 300 l 1
+ 200 300 l 1
+EndSplineSet
+Validated: 9
+EndChar

@@ -1,0 +1,15 @@
+StartChar: uni0308
+Encoding: 776 776 135
+Width: 0
+Flags: W
+HStem: 700 100<-400 -300 -200 -100>
+VStem: -400 100<700 800> -200 100<700 800>
+AnchorPoint: "stack" -250 700 mark 0
+AnchorPoint: "stack-even" -350 900 basemark 0
+AnchorPoint: "stack" -250 900 basemark 0
+AnchorPoint: "top" -250 700 mark 0
+LayerCount: 2
+Fore
+Refer: 104 168 N 1 0 0 1 -500 100 2
+Validated: 1
+EndChar

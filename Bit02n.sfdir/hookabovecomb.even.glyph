@@ -1,0 +1,13 @@
+StartChar: hookabovecomb.even
+Encoding: 65547 -1 557
+Width: 0
+Flags: W
+HStem: 600 100<-300 -200> 700 100<-200 -100> 800 100<-400 -200>
+VStem: -300 100<600 700> -200 100<700 800>
+AnchorPoint: "stack-even" -350 700 mark 0
+AnchorPoint: "top-even" -250 600 mark 0
+LayerCount: 2
+Fore
+Refer: 518 777 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

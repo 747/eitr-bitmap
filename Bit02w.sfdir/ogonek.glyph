@@ -1,0 +1,11 @@
+StartChar: ogonek
+Encoding: 731 731 191
+Width: 500
+Flags: W
+HStem: -200 100<200 300>
+VStem: 100 100<-100 0>
+LayerCount: 3
+Fore
+Refer: 152 808 N 1 0 0 1 500 0 2
+Validated: 1
+EndChar

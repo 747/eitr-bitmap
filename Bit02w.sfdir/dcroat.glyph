@@ -1,0 +1,40 @@
+StartChar: dcroat
+Encoding: 273 273 638
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: 0 100<200 400> 400 100<200 400> 600 100<200 400 500 600>
+VStem: 100 100<100 400> 200 300<0 100 400 500> 400 100<100 400 500 600 700 800>
+AnchorPoint: "bottom-adjoined" 350 0 basechar 0
+AnchorPoint: "bottom" 350 -100 basechar 0
+AnchorPoint: "top" 450 800 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+200 600 m 1xe8
+ 200 700 l 1xe8
+ 400 700 l 1
+ 400 800 l 1
+ 500 800 l 1
+ 500 700 l 1
+ 600 700 l 1
+ 600 600 l 1
+ 500 600 l 1xe4
+ 500 0 l 1
+ 200 0 l 1xe8
+ 200 100 l 1
+ 100 100 l 1
+ 100 400 l 1
+ 200 400 l 1xf0
+ 200 500 l 1xe8
+ 400 500 l 1
+ 400 600 l 1xe4
+ 200 600 l 1xe8
+200 400 m 1xf4
+ 200 100 l 1
+ 400 100 l 1
+ 400 400 l 1
+ 200 400 l 1xf4
+EndSplineSet
+Validated: 5
+EndChar

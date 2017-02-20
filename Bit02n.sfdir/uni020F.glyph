@@ -1,0 +1,12 @@
+StartChar: uni020F
+Encoding: 527 527 584
+Width: 500
+Flags: W
+HStem: 0 100<100 300> 100 300<0 100 300 400> 400 100<100 300> 600 200
+VStem: 0 100<100 400> 100 200<0 100 400 500> 300 100<100 400>
+LayerCount: 2
+Fore
+Refer: 72 111 N 1 0 0 1 0 0 3
+Refer: 621 -1 N 1 0 0 1 -200 0 2
+Validated: 5
+EndChar

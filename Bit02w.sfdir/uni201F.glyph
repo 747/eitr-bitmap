@@ -1,0 +1,30 @@
+StartChar: uni201F
+Encoding: 8223 8223 732
+Width: 600
+Flags: W
+LayerCount: 3
+Fore
+SplineSet
+200 600 m 25
+ 200 800 l 25
+ 100 800 l 25
+ 100 600 l 25
+ 200 600 l 25
+300 500 m 25
+ 300 600 l 25
+ 200 600 l 25
+ 200 500 l 25
+ 300 500 l 25
+400 600 m 25
+ 400 800 l 25
+ 300 800 l 25
+ 300 600 l 25
+ 400 600 l 25
+500 500 m 25
+ 500 600 l 25
+ 400 600 l 25
+ 400 500 l 25
+ 500 500 l 25
+EndSplineSet
+Validated: 5
+EndChar

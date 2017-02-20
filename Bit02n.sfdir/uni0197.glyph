@@ -1,0 +1,19 @@
+StartChar: uni0197
+Encoding: 407 407 651
+Width: 400
+VWidth: 1600
+Flags: W
+HStem: -100 21G<100 200> 300 100<0 300> 680 20G<100 200>
+VStem: 0 300<300 400> 100 100<-100 700>
+LayerCount: 2
+Fore
+SplineSet
+0 300 m 25xf0
+ 0 400 l 25
+ 300 400 l 25
+ 300 300 l 25
+ 0 300 l 25xf0
+EndSplineSet
+Refer: 37 73 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

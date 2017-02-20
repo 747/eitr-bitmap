@@ -1,0 +1,22 @@
+StartChar: quoteright
+Encoding: 8217 8217 213
+Width: 300
+Flags: W
+HStem: 500 100<0 100>
+VStem: 0 100<500 600> 100 100<600 800>
+LayerCount: 2
+Fore
+SplineSet
+100 600 m 9xc0
+ 100 800 l 25
+ 200 800 l 25
+ 200 600 l 17xa0
+ 167 600 133 600 100 600 c 9xc0
+0 500 m 25xc0
+ 0 600 l 25
+ 100 600 l 25
+ 100 500 l 25
+ 0 500 l 25xc0
+EndSplineSet
+Validated: 5
+EndChar

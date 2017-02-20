@@ -1,0 +1,17 @@
+StartChar: onedotenleader
+Encoding: 8228 8228 789
+Width: 500
+Flags: W
+HStem: 0 200<200 300>
+VStem: 200 100<0 200>
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 25
+ 200 200 l 25
+ 300 200 l 25
+ 300 0 l 25
+ 200 0 l 25
+EndSplineSet
+Validated: 1
+EndChar

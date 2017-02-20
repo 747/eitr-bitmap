@@ -1,0 +1,28 @@
+StartChar: hookabovecomb
+Encoding: 777 777 518
+Width: 0
+Flags: W
+HStem: 600 100<-300 -200> 700 100<-200 -100> 800 100<-400 -200>
+VStem: -300 100<600 700> -200 100<700 800>
+AnchorPoint: "stack" -250 700 mark 0
+AnchorPoint: "top" -250 600 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-300 600 m 1x90
+ -300 700 l 1
+ -200 700 l 1x90
+ -200 800 l 1
+ -100 800 l 1
+ -100 700 l 1x48
+ -200 700 l 1
+ -200 600 l 1
+ -300 600 l 1x90
+-400 800 m 1x28
+ -400 900 l 1
+ -333 900 -267 900 -200 900 c 1x28
+ -200 800 l 1x48
+ -267 800 -333 800 -400 800 c 1x28
+EndSplineSet
+Validated: 5
+EndChar

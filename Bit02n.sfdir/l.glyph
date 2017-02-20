@@ -1,0 +1,32 @@
+StartChar: l
+Encoding: 108 108 69
+Width: 200
+VWidth: 1600
+Flags: W
+HStem: 680 20G<0 100>
+VStem: -0 100<0 700>
+AnchorPoint: "caron-alt" 250 600 basechar 0
+AnchorPoint: "ogonek" 50 0 basechar 0
+AnchorPoint: "bottom-adjoined" 50 0 basechar 0
+AnchorPoint: "bottom" 50 -100 basechar 0
+AnchorPoint: "top" 50 800 basechar 0
+LayerCount: 2
+Back
+SplineSet
+0 100 m 1
+ 0 700 l 1
+ 100 700 l 1025
+200 100 m 1
+ 200 0 l 1
+ 100 0 l 1025
+EndSplineSet
+Fore
+SplineSet
+100 700 m 1
+ 100 0 l 1
+ -0 0 l 1
+ 0 700 l 1
+ 100 700 l 1
+EndSplineSet
+Validated: 1
+EndChar

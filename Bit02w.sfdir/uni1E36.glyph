@@ -1,0 +1,12 @@
+StartChar: uni1E36
+Encoding: 7734 7734 558
+Width: 600
+Flags: W
+HStem: -300 100<200 300> -100 100<200 500> 680 20G<100 200>
+VStem: 100 100<0 700> 200 100<-300 -200>
+LayerCount: 3
+Fore
+Refer: 40 76 N 1 0 0 1 0 0 3
+Refer: 149 803 N 1 0 0 1 500 -100 2
+Validated: 1
+EndChar

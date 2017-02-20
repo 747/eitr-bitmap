@@ -1,0 +1,25 @@
+StartChar: uni026A
+Encoding: 618 618 722
+Width: 500
+Flags: W
+HStem: 0 100<100 200 300 400> 400 100<100 200 300 400>
+VStem: 100 300<0 100 400 500>
+LayerCount: 3
+Fore
+SplineSet
+100 400 m 1
+ 100 500 l 1
+ 400 500 l 1
+ 400 400 l 1
+ 300 400 l 1
+ 300 100 l 1
+ 400 100 l 1
+ 400 0 l 1
+ 100 0 l 1
+ 100 100 l 1
+ 200 100 l 1
+ 200 400 l 1
+ 100 400 l 1
+EndSplineSet
+Validated: 1
+EndChar

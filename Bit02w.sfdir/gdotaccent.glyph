@@ -1,0 +1,12 @@
+StartChar: gdotaccent
+Encoding: 289 289 350
+Width: 600
+Flags: W
+HStem: -200 100<200 400> 700 100<300 400>
+VStem: 300 100<700 800>
+LayerCount: 3
+Fore
+Refer: 64 103 N 1 0 0 1 0 0 3
+Refer: 137 775 N 1 0 0 1 600 0 2
+Validated: 5
+EndChar

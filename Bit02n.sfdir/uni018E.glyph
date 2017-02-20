@@ -1,0 +1,12 @@
+StartChar: uni018E
+Encoding: 398 398 647
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: -100 100<100 400> 300 100<100 400> 600 100<100 400>
+VStem: 100 400<-100 0 300 400 600 700> 400 100<0 300 400 600>
+LayerCount: 2
+Fore
+Refer: 33 69 N -1 0 0 1 600 0 2
+Validated: 25
+EndChar

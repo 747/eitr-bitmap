@@ -1,0 +1,13 @@
+StartChar: Ibreve
+Encoding: 300 300 359
+Width: 500
+Flags: W
+HStem: -100 21G<200 300> 680 20G<200 300> 800 100<100 400> 900 100<0 100 400 500>
+VStem: 0 100<900 1000> 200 100<-100 700> 400 100<900 1000>
+CounterMasks: 1 0e
+LayerCount: 3
+Fore
+Refer: 37 73 N 1 0 0 1 0 0 3
+Refer: 134 774 N 1 0 0 1 600 200 2
+Validated: 5
+EndChar

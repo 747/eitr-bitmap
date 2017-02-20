@@ -1,0 +1,31 @@
+StartChar: uni0254
+Encoding: 596 596 717
+Width: 400
+VWidth: 1600
+Flags: W
+HStem: 0 100<0 200> 400 100<0 200>
+VStem: 0 200<0 100 400 500> 200 100<100 400>
+AnchorPoint: "bottom" 150 -100 basechar 0
+AnchorPoint: "top-even" 150 600 basechar 0
+AnchorPoint: "top" 150 600 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+200 0 m 1xe0
+ 133 0 67 0 0 0 c 1
+ 0 100 l 1
+ 67 100 133 100 200 100 c 1
+ 200 0 l 1xe0
+200 100 m 1
+ 200 400 l 1xe0
+ 300 400 l 1
+ 300 100 l 1xd0
+ 200 100 l 1
+200 400 m 1
+ 133 400 67 400 0 400 c 1
+ 0 500 l 1
+ 67 500 133 500 200 500 c 1
+ 200 400 l 1
+EndSplineSet
+Validated: 5
+EndChar

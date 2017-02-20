@@ -1,0 +1,24 @@
+StartChar: acutecomb
+Encoding: 769 769 129
+Width: 0
+Flags: W
+HStem: 600 100<-300 -200> 700 100<-200 -100>
+VStem: -300 100<600 700> -200 100<700 800>
+AnchorPoint: "stack" -250 600 mark 0
+AnchorPoint: "top" -250 600 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-200 700 m 25xa0
+ -200 800 l 25
+ -100 800 l 25
+ -100 700 l 25x50
+ -200 700 l 25xa0
+-300 600 m 25xa0
+ -300 700 l 25
+ -200 700 l 25
+ -200 600 l 25
+ -300 600 l 25xa0
+EndSplineSet
+Validated: 5
+EndChar

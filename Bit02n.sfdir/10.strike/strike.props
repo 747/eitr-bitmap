@@ -1,0 +1,7 @@
+BitmapFont: 10 830 8 2 1 
+BDFStartProperties: 2
+FONT_NAME 16 "EitrOutlineDisplay"
+FACE_NAME 16 "Eitr Bitmap"
+BDFEndProperties
+Resolution: 75
+EndBitmapFont

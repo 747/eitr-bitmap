@@ -1,0 +1,30 @@
+StartChar: thorn
+Encoding: 254 254 171
+Width: 500
+VWidth: 1600
+Flags: W
+VStem: 300 100<100 400>
+LayerCount: 2
+Fore
+SplineSet
+0 700 m 1
+ 0 -200 l 1
+ 100 -200 l 1
+ 100 0 l 1
+ 167 0 233 0 300 0 c 1
+ 300 100 l 1
+ 233 100 167 100 100 100 c 1
+ 100 400 l 1
+ 300 400 l 1
+ 300 500 l 1
+ 100 500 l 1
+ 100 700 l 1
+ 0 700 l 1
+300 100 m 1
+ 300 400 l 1
+ 400 400 l 1
+ 400 100 l 1
+ 300 100 l 1
+EndSplineSet
+Validated: 5
+EndChar

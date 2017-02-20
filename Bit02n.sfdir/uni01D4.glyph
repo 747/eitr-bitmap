@@ -1,0 +1,12 @@
+StartChar: uni01D4
+Encoding: 468 468 448
+Width: 500
+Flags: W
+HStem: 0 100<100 300> 480 20G<0 100 300 400> 600 100<100 300> 700 100<0 100 300 400>
+VStem: 0 100<100 500 700 800> 300 100<100 500 700 800>
+LayerCount: 2
+Fore
+Refer: 78 117 N 1 0 0 1 0 0 3
+Refer: 254 -1 N 1 0 0 1 500 0 2
+Validated: 5
+EndChar

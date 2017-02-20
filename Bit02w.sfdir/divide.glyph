@@ -1,0 +1,28 @@
+StartChar: divide
+Encoding: 247 247 176
+Width: 700
+Flags: W
+HStem: 100 100<300 400> 300 100<100 600> 500 100<300 400>
+VStem: 300 100<100 200 500 600>
+CounterMasks: 1 e0
+LayerCount: 3
+Fore
+SplineSet
+300 600 m 1
+ 400 600 l 9
+ 400 500 l 25
+ 300 500 l 25
+ 300 600 l 1
+600 400 m 1
+ 600 300 l 1
+ 100 300 l 1
+ 100 400 l 1
+ 600 400 l 1
+400 100 m 1
+ 300 100 l 9
+ 300 200 l 25
+ 400 200 l 25
+ 400 100 l 1
+EndSplineSet
+Validated: 1
+EndChar

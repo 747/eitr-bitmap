@@ -1,0 +1,25 @@
+StartChar: asterisk
+Encoding: 42 42 16
+Width: 500
+Flags: W
+HStem: 400 100<100 200 300 400> 600 100<100 200 300 400>
+VStem: 100 300<400 500 600 700>
+LayerCount: 3
+Fore
+SplineSet
+100 700 m 1
+ 400 700 l 1
+ 400 600 l 1
+ 300 600 l 1
+ 300 500 l 1
+ 400 500 l 1
+ 400 400 l 1
+ 100 400 l 1
+ 100 500 l 1
+ 200 500 l 1
+ 200 600 l 1
+ 100 600 l 1
+ 100 700 l 1
+EndSplineSet
+Validated: 1
+EndChar

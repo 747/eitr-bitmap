@@ -1,0 +1,31 @@
+StartChar: Thorn
+Encoding: 222 222 169
+Width: 700
+VWidth: 1600
+Flags: W
+HStem: -100 21G<100 200> 100 100<200 500> 480 20G<500 600> 500 100<200 500>
+VStem: 100 100<-100 100 200 500 600 800> 500 100<200 500>
+LayerCount: 3
+Fore
+SplineSet
+500 200 m 1xec
+ 500 500 l 1
+ 600 500 l 1
+ 600 200 l 1
+ 500 200 l 1xec
+500 200 m 1
+ 500 100 l 1
+ 200 100 l 1
+ 200 -100 l 1
+ 100 -100 l 1
+ 100 800 l 1
+ 200 800 l 1
+ 200 600 l 1
+ 500 600 l 1xdc
+ 500 500 l 1xec
+ 200 500 l 1xdc
+ 200 200 l 1
+ 500 200 l 1
+EndSplineSet
+Validated: 5
+EndChar

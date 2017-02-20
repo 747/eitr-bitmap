@@ -1,0 +1,12 @@
+StartChar: ij
+Encoding: 307 307 224
+Width: 500
+Flags: W
+HStem: -200 100<200 300> 400 100<0 100> 480 20G<300 400> 600 100<100 200 300 400>
+VStem: 100 100<0 400 600 700> 200 100<-200 -100> 300 100<-100 500 600 700>
+LayerCount: 2
+Fore
+Refer: 67 106 N 1 0 0 1 300 0 2
+Refer: 66 105 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

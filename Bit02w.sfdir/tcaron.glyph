@@ -1,0 +1,12 @@
+StartChar: tcaron
+Encoding: 357 357 403
+Width: 500
+Flags: W
+HStem: 0 100<200 400> 400 100<200 400> 600 200<300 400>
+VStem: 100 100<100 400 500 600> 300 100<600 800>
+LayerCount: 3
+Fore
+Refer: 77 116 N 1 0 0 1 0 0 3
+Refer: 257 -1 N 1 0 0 1 400 0 2
+Validated: 5
+EndChar

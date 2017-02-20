@@ -1,0 +1,12 @@
+StartChar: Emacron
+Encoding: 274 274 337
+Width: 600
+Flags: W
+HStem: -100 100<200 500> 300 100<200 500> 600 100<200 500> 800 100<100 500>
+VStem: 100 100<0 300 400 600> 100 400<-100 0 300 400 600 700>
+LayerCount: 3
+Fore
+Refer: 33 69 N 1 0 0 1 0 0 3
+Refer: 132 772 N 1 0 0 1 600 100 2
+Validated: 1
+EndChar

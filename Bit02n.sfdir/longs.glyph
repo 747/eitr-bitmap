@@ -1,0 +1,24 @@
+StartChar: longs
+Encoding: 383 383 174
+Width: 300
+VWidth: 1600
+Flags: W
+HStem: -200 21G<0 100> 600 100<100 300>
+VStem: 0 100<-200 600>
+AnchorPoint: "top" 150 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 1
+ 167 700 233 700 300 700 c 1
+ 300 600 l 1
+ 233 600 167 600 100 600 c 1
+ 100 700 l 1
+0 -200 m 1
+ 0 600 l 1
+ 100 600 l 1
+ 100 -200 l 1
+ 0 -200 l 1
+EndSplineSet
+Validated: 5
+EndChar

@@ -1,0 +1,15 @@
+StartChar: minus
+Encoding: 8722 8722 829
+Width: 500
+VWidth: 0
+Flags: HW
+LayerCount: 2
+Fore
+SplineSet
+0 300 m 1
+ 0 400 l 1
+ 400 400 l 1
+ 400 300 l 1
+ 0 300 l 1
+EndSplineSet
+EndChar

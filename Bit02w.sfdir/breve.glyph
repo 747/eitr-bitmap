@@ -1,0 +1,11 @@
+StartChar: breve
+Encoding: 728 728 188
+Width: 700
+Flags: W
+HStem: 600 100<200 500> 700 100<100 200 500 600>
+VStem: 100 100<700 800> 500 100<700 800>
+LayerCount: 3
+Fore
+Refer: 134 774 N 1 0 0 1 700 0 2
+Validated: 5
+EndChar

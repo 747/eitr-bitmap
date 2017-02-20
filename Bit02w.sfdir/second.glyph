@@ -1,0 +1,11 @@
+StartChar: second
+Encoding: 8243 8243 244
+Width: 700
+Flags: W
+HStem: 500 300<200 300 400 500>
+VStem: 200 100<500 800> 400 100<500 800>
+LayerCount: 3
+Fore
+Refer: 21 34 N 1 0 0 1 100 0 2
+Validated: 1
+EndChar

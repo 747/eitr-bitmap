@@ -1,0 +1,32 @@
+StartChar: guilsinglright
+Encoding: 8250 8250 198
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 400 m 1
+ 200 300 l 1
+ 300 300 l 1
+ 300 200 l 1
+ 200 200 l 1
+ 200 100 l 1
+ 100 100 l 1
+ 100 0 l 1
+ 200 0 l 1
+ 200 100 l 1
+ 300 100 l 1
+ 300 200 l 1
+ 400 200 l 1
+ 400 300 l 1
+ 300 300 l 1
+ 300 400 l 1
+ 200 400 l 1
+200 400 m 1
+ 200 500 l 1
+ 100 500 l 1
+ 100 400 l 1
+ 200 400 l 1
+EndSplineSet
+Validated: 5
+EndChar

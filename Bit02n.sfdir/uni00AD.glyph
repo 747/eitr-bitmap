@@ -1,0 +1,10 @@
+StartChar: uni00AD
+Encoding: 173 173 110
+Width: 400
+Flags: W
+HStem: 200 100<0 300>
+VStem: 0 300<200 300>
+LayerCount: 2
+Fore
+Refer: 13 45 S 1 0 0 1 0 0 2
+EndChar

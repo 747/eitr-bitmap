@@ -1,0 +1,22 @@
+StartChar: quoteleft
+Encoding: 8216 8216 216
+Width: 300
+Flags: W
+HStem: 500 21G<0 100> 680 20G<0 100> 700 100<100 200>
+VStem: 0 100<500 700> 100 100<700 800>
+LayerCount: 2
+Fore
+SplineSet
+100 700 m 25xd0
+ 100 500 l 25
+ 0 500 l 25
+ 0 700 l 25
+ 100 700 l 25xd0
+200 800 m 25xa8
+ 200 700 l 25xa8
+ 100 700 l 25xd0
+ 100 800 l 25
+ 200 800 l 25xa8
+EndSplineSet
+Validated: 5
+EndChar

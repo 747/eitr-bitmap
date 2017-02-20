@@ -1,0 +1,23 @@
+StartChar: uni0324.four
+Encoding: 65555 -1 632
+Width: 0
+Flags: W
+HStem: -200 100<-500 -400 -200 -100>
+VStem: -500 100<-200 -100> -200 100<-200 -100>
+AnchorPoint: "bottom" -250 -100 mark 0
+LayerCount: 3
+Fore
+SplineSet
+-500 -200 m 1
+ -500 -100 l 1
+ -400 -100 l 1
+ -400 -200 l 1
+ -500 -200 l 1
+-200 -200 m 1
+ -200 -100 l 1
+ -100 -100 l 1
+ -100 -200 l 1
+ -200 -200 l 1
+EndSplineSet
+Validated: 1
+EndChar

@@ -1,0 +1,12 @@
+StartChar: aringacute
+Encoding: 507 507 427
+Width: 500
+Flags: W
+HStem: 200 100<100 300> 400 100<100 300> 600 100<200 300> 800 100<200 300> 900 100<400 500>
+VStem: 0 100<0 200> 100 100<700 800> 300 100<0 200 300 400 700 800>
+LayerCount: 2
+Fore
+Refer: 58 97 N 1 0 0 1 0 0 3
+Refer: 264 -1 N 1 0 0 1 500 0 2
+Validated: 5
+EndChar

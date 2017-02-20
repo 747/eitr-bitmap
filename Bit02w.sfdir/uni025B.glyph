@@ -1,0 +1,41 @@
+StartChar: uni025B
+Encoding: 603 603 719
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: 0 100<200 500> 100 100<100 200> 200 100<200 400> 300 100<100 200> 400 100<200 500>
+VStem: 100 100<100 200 300 400> 200 300<0 100 400 500>
+AnchorPoint: "bottom" 350 -100 basechar 0
+AnchorPoint: "top-even" 250 600 basechar 0
+AnchorPoint: "top" 350 600 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+200 100 m 1x84
+ 100 100 l 1
+ 100 200 l 1
+ 200 200 l 1x44
+ 200 100 l 1x84
+200 300 m 1x24
+ 100 300 l 1
+ 100 400 l 1
+ 200 400 l 1x14
+ 200 300 l 1x24
+400 200 m 25x24
+ 200 200 l 1x44
+ 200 300 l 1
+ 400 300 l 25
+ 400 200 l 25x24
+500 400 m 1x0a
+ 200 400 l 1x14
+ 200 500 l 1
+ 500 500 l 1
+ 500 400 l 1x0a
+200 100 m 1x84
+ 500 100 l 1
+ 500 0 l 1
+ 200 0 l 1x82
+ 200 100 l 1x84
+EndSplineSet
+Validated: 5
+EndChar

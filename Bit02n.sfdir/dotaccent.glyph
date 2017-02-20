@@ -1,0 +1,11 @@
+StartChar: dotaccent
+Encoding: 729 729 189
+Width: 300
+Flags: W
+HStem: 700 100<100 200>
+VStem: 100 100<700 800>
+LayerCount: 2
+Fore
+Refer: 137 775 N 1 0 0 1 400 0 2
+Validated: 1
+EndChar

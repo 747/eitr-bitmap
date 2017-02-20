@@ -1,0 +1,21 @@
+StartChar: Eogonek
+Encoding: 280 280 235
+Width: 600
+VWidth: 1600
+Flags: W
+HStem: -300 100<400 500> -120 20G<300 400> -100 100<200 500> 300 100<200 500> 600 100<200 500>
+VStem: 100 100<0 300 400 600> 100 400<-100 0 300 400 600 700> 300 100<-200 -100>
+LayerCount: 2
+Fore
+SplineSet
+300 -300 m 29xd9
+ 300 -100 l 25
+ 400 -100 l 25
+ 400 -200 l 25xd9
+ 500 -200 l 25
+ 500 -300 l 25xda
+ 300 -300 l 29xd9
+EndSplineSet
+Refer: 33 69 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar

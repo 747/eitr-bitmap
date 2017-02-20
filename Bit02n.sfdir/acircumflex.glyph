@@ -1,0 +1,15 @@
+StartChar: acircumflex
+Encoding: 226 226 167
+Width: 500
+Flags: W
+HStem: 200 100<100 300> 400 100<100 300> 600 100<100 200 300 400> 700 100<200 300>
+VStem: 0 100<0 200> 100 100<600 700> 200 100<700 800> 300 100<0 200 300 400 600 700>
+AnchorPoint: "top" 350 900 basechar 0
+AnchorPoint: "bottom" 350 -200 basechar 0
+AnchorPoint: "top-even" 250 900 basechar 0
+LayerCount: 2
+Fore
+Refer: 130 770 N 1 0 0 1 500 0 2
+Refer: 58 97 N 1 0 0 1 0 0 3
+Validated: 5
+EndChar

@@ -1,0 +1,19 @@
+StartChar: Eth
+Encoding: 208 208 230
+Width: 800
+VWidth: 1600
+Flags: W
+HStem: -100 100<200 500> 0 100<500 600> 300 100<0 400> 500 100<500 600> 600 100<200 500>
+VStem: 100 100<0 600> 500 100<0 100 500 600> 600 100<100 500>
+LayerCount: 3
+Fore
+SplineSet
+0 300 m 25x24
+ 0 400 l 25
+ 400 400 l 25
+ 400 300 l 25
+ 0 300 l 25x24
+EndSplineSet
+Refer: 32 68 N 1 0 0 1 0 0 2
+Validated: 5
+EndChar
