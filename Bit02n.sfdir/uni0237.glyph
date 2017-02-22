@@ -1,26 +1,27 @@
 StartChar: uni0237
 Encoding: 567 567 229
-Width: 200
+Width: 300
 VWidth: 1600
 Flags: W
-HStem: -200 100<-100 0> 480 20G<0 100>
-VStem: -100 100<-200 -100> 0 100<-100 500>
-AnchorPoint: "bottom" -50 -300 basechar 0
-AnchorPoint: "bottom-adjoined" -50 -200 basechar 0
-AnchorPoint: "ogonek" -50 -100 basechar 0
-AnchorPoint: "top" 50 600 basechar 0
+HStem: -200 100<-100 100> 400 100<0 100>
+VStem: 100 100<-100 400>
+AnchorPoint: "bottom" 50 -300 basechar 0
+AnchorPoint: "bottom-adjoined" 50 -200 basechar 0
+AnchorPoint: "ogonek" 50 -100 basechar 0
+AnchorPoint: "top" 150 600 basechar 0
 LayerCount: 2
 Fore
 SplineSet
--100 -200 m 1xe0
+100 400 m 1
+ 0 400 l 1
+ -0 500 l 1
+ 200 500 l 1
+ 200 300 200 100 200 -100 c 1
+ 100 -100 l 1
+ 100 -200 l 1
+ -100 -200 l 1
  -100 -100 l 1
- 0 -100 l 1xe0
- 0 67 0 333 0 500 c 1
- 100 500 l 1
- 100 300 100 100 100 -100 c 1xd0
- 0 -100 l 1
- 0 -200 l 1
- -100 -200 l 1xe0
+ 100 -100 l 1
+ 100 400 l 1
 EndSplineSet
-Validated: 5
 EndChar
